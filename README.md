@@ -1,5 +1,3 @@
-# trader-sentiment-assignment
-Analysis of trader behavior vs market sentiment using crypto data
 # Trader Behavior Insights vs Market Sentiment
 
 This analysis explores how crypto traders behave during different Bitcoin market sentiment phases using historical trade data and the Fear & Greed Index.
